@@ -1,2 +1,2 @@
-# decorator_learn
+# python_learn
 Just for learning Python.
